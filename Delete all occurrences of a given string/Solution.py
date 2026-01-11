@@ -28,4 +28,5 @@ class Solution:
 
             temp = next_node
 
+        
         return new_head

@@ -13,6 +13,6 @@ class Solution:
             summ=total
             not_pick=backtrack(index+1,summ)
             return pick+not_pick
-    
+
         return backtrack(0,0)
         
